@@ -45,3 +45,7 @@ main {
   flex-basis:100px;
   flex-grow:1;
 }
+
+.selfalign{
+  align-self: flex-end;
+}
