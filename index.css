@@ -38,3 +38,8 @@ main {
   height: 100vh;
   flex-direction: column;
 }
+
+.setwidth{
+  flex-basis:100px;
+  flex-grow:1;
+}
