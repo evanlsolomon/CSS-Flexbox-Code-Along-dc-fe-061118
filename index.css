@@ -22,8 +22,9 @@ main {
   background-color: white;
   width: 100%;
   height: 100%;
-  flex-flow: column wrap;
-  justify-content: space-between;
+  flex-flow: row wrap;
+
+  align-items: 
 }
 
 .item{
